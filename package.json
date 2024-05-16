@@ -3,9 +3,8 @@
   "version": "1.0.0",
   "description": "This is a repository for a jetkins project",
   "main": "app.js",
-  "type": "module",
   "scripts": {
-    "start": "node app.js",
+    "start": "node hello-world-run.js",
     "test": "jest"
   },
   "author": "Letoto Manoela",
